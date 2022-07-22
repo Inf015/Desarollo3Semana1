@@ -1,0 +1,10 @@
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\bin\Debug\Deportados.mdf
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\bin\Debug\Deportados_log.ldf
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\bin\Debug\Semana 1 Lab Desarrollo 3.exe.config
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\bin\Debug\Semana 1 Lab Desarrollo 3.exe
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\bin\Debug\Semana 1 Lab Desarrollo 3.pdb
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\obj\Debug\Semana 1 Lab Desarrollo 3.csproj.AssemblyReference.cache
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\obj\Debug\Semana 1 Lab Desarrollo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\obj\Debug\Semana 1 Lab Desarrollo 3.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\obj\Debug\Semana 1 Lab Desarrollo 3.exe
+C:\Users\olive\source\Desarrollo 3\Semana 1 Lab Desarrollo 3\Semana 1 Lab Desarrollo 3\obj\Debug\Semana 1 Lab Desarrollo 3.pdb
